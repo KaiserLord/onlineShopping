@@ -1,0 +1,5 @@
+Sharon,sharon,sharon123,sharon@gmail.com,001,1 mountain road,Auckland,1000,02102212984
+Huia,huia,huia123,huia@gmail.com,002,2 quay road,Christchurch,1100,02201203913
+Naomi,naomi,naomi123,naomi@gmail.com,003,3 beach road,Dunedin,1200,02102193812
+Marna,marna,marna123,marna@gmail.com,004,4 lincoln road,Wellington,1300,02481203913
+Taylor,taylor,taylor123,taylor@gmail.com,005,5 symonds street,Upper North,1400,02789019387

@@ -1,0 +1,2 @@
+498195,0,2022-10-29 19:11:27.498195,120.0,8.0,5 symonds street,Upper North,1400,128.0,121,Harleyloungechair,110.00,5,Home&Living,1,marna
+544558,0,2022-10-29 19:14:25.544558,130.0,5.0,5 symonds street,Upper North,1400,135.0,121,Harleyloungechair,110.00,5,Home&Living,1,marna

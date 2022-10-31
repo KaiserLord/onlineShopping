@@ -1,0 +1,2 @@
+544558,0,2022-10-29 19:14:25.544558,130.0,5.0,5 symonds street,Upper North,1400,135.0,121,Harleyloungechair,110.00,5,Home&Living,1,huia
+327661,0,2022-10-30 12:52:02.327661,5.0,9.0,5 symonds street,Upper North,1400,14.0,108,Pettennisballs,5.0,2,Pets,1,huia

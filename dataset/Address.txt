@@ -1,0 +1,5 @@
+1,mountain road,Auckland,1000
+2,quay road,Christchurch,1100
+3,beach road,Dunedin,1200
+4,lincoln road,Wellington,1300
+5,symonds street,Upper North,1400

@@ -1,0 +1,8 @@
+544558,3,2022-10-29 19:14:25.544558,130.0,5.0,5 symonds street,Upper North,1400,135.0,121,Harleyloungechair,110.00,5,Home&Living,1,sharon
+327661,0,2022-10-30 12:52:02.327661,5.0,9.0,5 symonds street,Upper North,1400,14.0,108,Pettennisballs,5.0,2,Pets,1,sharon
+498195,0,2022-10-29 19:11:27.498195,120.0,8.0,5 symonds street,Upper North,1400,128.0,121,Harleyloungechair,110.00,5,Home&Living,1,taylor
+544558,3,2022-10-29 19:14:25.544558,130.0,5.0,5 symonds street,Upper North,1400,135.0,121,Harleyloungechair,110.00,5,Home&Living,1,huia
+196857,0,2022-10-29 21:11:48.196857,5.0,10.0,1 mountain road,Auckland,1000,15.0,110,Pettoyplushsheep,5.00,2,Pets,1,huia
+3,1,2022-10-27 22:19:32.969184,65.0,3.0,1 mountain road,Auckland,1000,68.0,109,Cattowerflower,45.00,2,Pets,1,huia
+701391,3,2022-3-28 22:55:49.701391,105.0,2.0,4 lincoln road,Wellington,1300,107.0,108,Pettennisballs,5.00,2,Pets,1,taylor
+333438,0,2022-10-29 13:10:15.333438,90.0,5.0,5 symonds street,Upper North,1400,95.0,124,Upholsteredbench,80.00,5,Home&Living,1,marna

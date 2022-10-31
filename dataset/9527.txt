@@ -1,0 +1,5 @@
+3,1,2022-10-27 22:19:32.969184,65.0,3.0,1 mountain road,Auckland,1000,68.0,109,Cattowerflower,45.00,2,Pets,1,taylor
+701391,0,2022-3-28 22:55:49.701391,105.0,2.0,4 lincoln road,Wellington,1300,107.0,108,Pettennisballs,5.00,2,Pets,1,taylor
+333438,0,2022-10-29 13:10:15.333438,90.0,5.0,5 symonds street,Upper North,1400,95.0,124,Upholsteredbench,80.00,5,Home&Living,1,taylor
+544558,0,2022-10-29 19:14:25.544558,130.0,5.0,5 symonds street,Upper North,1400,135.0,121,Harleyloungechair,110.00,5,Home&Living,1,taylor
+327661,0,2022-10-30 12:52:02.327661,5.0,9,5 symonds street,Upper North,1400,14.0,108,Pettennisballs,5.0,2,Pets,1,taylor
