@@ -19,9 +19,9 @@ class OnlineShopping():
     def __init__(self) -> None:
         # 初始化所有类别
         # 从文件中读取出来
-        self.staffList = self.readGuest()
+        self.staffList = self.readStaff()
         self.memberList = self.readMember()
-        self.guestList = self.readGuest()
+        # self.guestList = self.readGuest()
         self.productList = self.readProduct()
         self.cardList = self.readCard()
         self.addList = self.readAddress()
@@ -61,20 +61,20 @@ class OnlineShopping():
 
         return memberList
 
-    def readGuest(self):
-        # init
-        file = './dataset/Guest.txt'
-        guestList = []
-        with open(file=file, encoding='utf-8') as f:
-            for line in f.readlines():
-                user = []
-                line = line.replace('\n', '').split(',')
-                for item in line:
-                    item = item.replace(' ', '')
-                    user.append(item)
-                guestList.append(user)
+    # def readGuest(self):
+    #     # init
+    #     file = './dataset/Guest.txt'
+    #     guestList = []
+    #     with open(file=file, encoding='utf-8') as f:
+    #         for line in f.readlines():
+    #             user = []
+    #             line = line.replace('\n', '').split(',')
+    #             for item in line:
+    #                 item = item.replace(' ', '')
+    #                 user.append(item)
+    #             guestList.append(user)
 
-        return guestList
+    #     return guestList
     
     def readProduct(self):
         # init

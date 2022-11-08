@@ -1,9 +1,7 @@
 from datetime import datetime
-from email import message
 import os
 import random
 from tkinter import *
-import tkinter
 from tkinter import scrolledtext
 from address import Address
 from guest import Guest
@@ -21,13 +19,13 @@ from collections import Counter
 from staff import Staff
 
 class myGUI():
-    def __init__(self, onlineshop) -> None:
+    def __init__(self, onlineshop):
         self.scrolW = 100
         self.scrolH = 300
         self.shop = onlineshop
         self.staffs = onlineshop.staffList
         self.members = onlineshop.memberList
-        self.guests = onlineshop.guestList
+        # self.guests = onlineshop.guestList
         self.products = onlineshop.productList
         self.cards = onlineshop.cardList
         self.addresses = onlineshop.addList
